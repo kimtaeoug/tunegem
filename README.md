@@ -15,3 +15,24 @@
 
 ## IntroDuction  
 K-pop Factory에서 만든 K-pop Vocal이 키워드인 서비스입니다. 주요 기능은 사용자의 보컬 분석에 대한 리포트 기능, 오디션 지원 기능, 레슨 기능입니다. Flutter를 이용해 Appdmf
+<div align="left">
+<table>
+   <tr>
+      <td>
+         <img width="250px" src="https://play-lh.googleusercontent.com/lv0v5TMe76It-6IoPN0iL-DRthjCUUXKV3HLFoH14L50tGjXqngvHEb8NHvUkRDKbQ=w526-h296-rw">
+      </td>
+      <td>
+         <img width="250px" src="https://play-lh.googleusercontent.com/hZpBs3wfvZFwtQUyhYNGbnyrOXU3ULk7p9XI3qMmKEmK0sH72YOCQ_V3LltQfQawYhI=w526-h296-rw">
+      </td>
+      <td>
+         <img width="250px" src="https://play-lh.googleusercontent.com/i_0_Cxv9QQgKi2gCKeJFAtwHYxKRcra9A5J4IrKCDCo9aLLxwbNlKV073SHxwy10bUM=w526-h296-rw">
+      </td>
+      <td>
+         <img width="250px" src="https://play-lh.googleusercontent.com/vJXaYvCX_CZ1P9Xid7H5V52UXcVNxLASeYfFTTan7e6uv7fb3QGdtvG0m9UYXaIsI7HG=w526-h296-rw">
+      </td>
+      <td>
+         <img width="250px" src="https://play-lh.googleusercontent.com/oUUgyj_jS_S4dXrwwkThyLeWkVO0dTq178A8g9PYHBoYNmDv3VJ5gbhJ-PB6FMJ6uvQ=w526-h296-rw">
+      </td>
+   </tr>
+</table> 
+</div>
