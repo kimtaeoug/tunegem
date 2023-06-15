@@ -36,7 +36,7 @@ K-pop Factory에서 만든 K-pop Vocal이 키워드인 서비스입니다. 주�
    </tr>
 </table> 
 </div> -->
-
+![Generic badge](https://img.shields.io/badge/version-1.12.9-green.svg)
 <div>
   <div style="text-align:center">
      <a href="https://play.google.com/store/apps/details?id=com.vittio.tunegem&hl=ko&gl=US">
