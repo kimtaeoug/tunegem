@@ -40,5 +40,13 @@ K-pop Factory에서 만든 K-pop Vocal이 키워드인 서비스입니다. 주�
 
 ##### Store 
 2023/06/15 기준 : ![Generic badge](https://img.shields.io/badge/version-1.12.9-green.svg)
-👉🏻[PlayStore](https://play.google.com/store/apps/details?id=com.vittio.tunegem&hl=ko&gl=US) 👉🏻[AppStore](https://apps.apple.com/kr/app/tunegem-%EC%BC%80%EC%9D%B4%ED%8C%9D-%EB%B3%B4%EC%BB%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id1572957226)  
-
+<div>
+  <div>
+     <a href="https://play.google.com/store/apps/details?id=com.vittio.tunegem&hl=ko&gl=US">
+     <img width="50px" src="https://cdn-icons-png.flaticon.com/128/300/300218.png">
+ </div> 
+ <div>
+    <a href="[https://play.google.com/store/apps/details?id=com.vittio.tunegem&hl=ko&gl=US](https://apps.apple.com/kr/app/tunegem-%EC%BC%80%EC%9D%B4%ED%8C%9D-%EB%B3%B4%EC%BB%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id1572957226)">
+    <img width="50px" src="https://cdn-icons-png.flaticon.com/128/300/300218.png">
+ </div>  
+</div> 
