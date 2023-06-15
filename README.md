@@ -15,7 +15,7 @@
 
 ## IntroDuction  
 K-pop Factory에서 만든 K-pop Vocal이 키워드인 서비스입니다. 주요 기능은 사용자의 보컬 분석에 대한 리포트 기능, 오디션 지원 기능, 레슨 기능입니다. Flutter를 이용해 Appdmf
-<div align="left">
+<!-- <div align="left">
 <table>
    <tr>
       <td>
@@ -35,10 +35,10 @@ K-pop Factory에서 만든 K-pop Vocal이 키워드인 서비스입니다. 주�
       </td>
    </tr>
 </table> 
-</div>
+</div> -->
 
-![Generic badge](https://img.shields.io/badge/version-1.12.9-green.svg)
 
-![Stack](https://img.shields.io/badge/?style=for-the-badge&logo=FFmpeg&logoColor=white)
-#### Store  👉🏻[PlayStore](https://play.google.com/store/apps/details?id=com.vittio.tunegem&hl=ko&gl=US) 👉🏻[AppStore](https://apps.apple.com/kr/app/tunegem-%EC%BC%80%EC%9D%B4%ED%8C%9D-%EB%B3%B4%EC%BB%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id1572957226)  
+##### Store 
+2023/06/15 기준 : ![Generic badge](https://img.shields.io/badge/version-1.12.9-green.svg)
+👉🏻[PlayStore](https://play.google.com/store/apps/details?id=com.vittio.tunegem&hl=ko&gl=US) 👉🏻[AppStore](https://apps.apple.com/kr/app/tunegem-%EC%BC%80%EC%9D%B4%ED%8C%9D-%EB%B3%B4%EC%BB%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id1572957226)  
 
