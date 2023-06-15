@@ -46,4 +46,4 @@ K-pop Factory에서 만든 K-pop Vocal이 키워드인 서비스입니다. 주�
     <img width="30px" src="https://cdn-icons-png.flaticon.com/128/5977/5977575.png">
  </div>  
 </div> 
-   ![Generic badge](https://img.shields.io/badge/version-1.12.9-green.svg)
+![Generic badge](https://img.shields.io/badge/version-1.12.9-green.svg)      
