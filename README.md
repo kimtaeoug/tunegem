@@ -70,8 +70,8 @@ _AppStore_ 👉🏻[다운로드](https://apps.apple.com/kr/app/tunegem-%EC%BC%8
 ![Stack](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Stack](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![Stack](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white)
-
+  
 ### CI/CD  
 ![Stack](https://img.shields.io/badge/githubactions-4A154B?style=for-the-badge&logo=GithubAction&logoColor=white)
-![Stack](https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=FastLane&logoColor=white)  
+![Stack](https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=FastLane&logoColor=white)
 ![Stack](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)  
