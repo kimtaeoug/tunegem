@@ -1,4 +1,4 @@
-<h1 align="left">Tunegem</h1>  
+<h1 align="center">Tunegem</h1>  
 
 <div align="left">
  
