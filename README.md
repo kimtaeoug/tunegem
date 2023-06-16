@@ -9,7 +9,6 @@
 ![Stack](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Stack](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
 ![Stack](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
-![Stack](https://img.shields.io/badge/ffmpeg-#007808?style=for-the-badge&logo=FFmpeg&logoColor=white)
   
 </div>
 
