@@ -20,7 +20,7 @@ TUNEGEM은 K-PopFactory에서 만든 앱입니다. 해당 앱의 주요 서비�
 
 * _해당 프로젝트는 비밀 유지 계약에 따라 코드를 공개할 수 없습니다._
 
-<!-- <div align="left">
+<div align="left">
 <table>
    <tr>
       <td>
@@ -40,13 +40,13 @@ TUNEGEM은 K-PopFactory에서 만든 앱입니다. 해당 앱의 주요 서비�
       </td>
    </tr>
 </table> 
-</div> -->
+</div>
 ![Generic badge](https://img.shields.io/badge/version-1.12.9-green.svg)
 <div>
   <div style="text-align:center">
      <a href="https://play.google.com/store/apps/details?id=com.vittio.tunegem&hl=ko&gl=US">
      <img width="30px" src="https://cdn-icons-png.flaticon.com/128/300/300218.png" >
-    <a href="[https://play.google.com/store/apps/details?id=com.vittio.tunegem&hl=ko&gl=US](https://apps.apple.com/kr/app/tunegem-%EC%BC%80%EC%9D%B4%ED%8C%9D-%EB%B3%B4%EC%BB%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id1572957226)">
+     <a href="[https://play.google.com/store/apps/details?id=com.vittio.tunegem&hl=ko&gl=US](https://apps.apple.com/kr/app/tunegem-%EC%BC%80%EC%9D%B4%ED%8C%9D-%EB%B3%B4%EC%BB%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id1572957226)">
     <img width="30px" src="https://cdn-icons-png.flaticon.com/128/5977/5977575.png">
  </div>  
 </div> 
@@ -59,5 +59,5 @@ TUNEGEM은 K-PopFactory에서 만든 앱입니다. 해당 앱의 주요 서비�
 ### ⚙️ 기술 Stack  
 * 상태 관리 및 바인딩, 라우팅 -> GetX  
 * 디자인 패턴 -> Clean Architecture  
-* 의존성 주입 -> DI
+* 의존성 주입 -> DI  
 * Package 관리 -> Melos   
