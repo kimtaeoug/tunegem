@@ -45,9 +45,9 @@ TUNEGEM은 K-PopFactory에서 만든 앱입니다. 해당 앱의 주요 서비�
 ![Generic badge](https://img.shields.io/badge/version-1.12.9-green.svg)
 
 ### Download  
-_PlayStore_ 👉🏻[다운로드]([https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link](https://play.google.com/store/apps/details?id=com.vittio.tunegem&hl=ko&gl=US)  
+_PlayStore_ 👉🏻[다운로드](https://play.google.com/store/apps/details?id=com.vittio.tunegem&hl=ko&gl=US) 
 
-_AppStore_ 👉🏻[다운로드](https://play.google.com/store/apps/details?id=com.vittio.tunegem&hl=ko&gl=US](https://apps.apple.com/kr/app/tunegem-%EC%BC%80%EC%9D%B4%ED%8C%9D-%EB%B3%B4%EC%BB%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id1572957226)    
+_AppStore_ 👉🏻[다운로드](https://apps.apple.com/kr/app/tunegem-%EC%BC%80%EC%9D%B4%ED%8C%9D-%EB%B3%B4%EC%BB%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id1572957226)    
    
 ### 🧑‍💻 프로젝트내 담당 업무  
 + 신규 서비스 개발 및 배포
